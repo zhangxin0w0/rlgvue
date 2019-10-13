@@ -7,7 +7,7 @@ import store from './store';
 import { Toast } from 'vant';
 import { Dialog } from 'vant';
 import { Lazyload } from 'vant';
-import 'vant/lib/index.css';
+import '@/assets/index.css';
 
 Vue.use(Toast);
 Vue.use(Dialog);
